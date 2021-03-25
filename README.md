@@ -1,0 +1,2 @@
+# Coursera: Javascript, part 2
+This repository contains solutions for assignments for the Coursera.org course called [Javascript, part 2](https://www.coursera.org/learn/javascript-prototipy?specialization=razrabotka-interfeysov) (EcmaScript 5) by Moscow Institute of Physics and Technology, Yandex & E-Learning Development Fund.
